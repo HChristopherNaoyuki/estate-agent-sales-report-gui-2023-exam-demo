@@ -1,0 +1,5 @@
+Agent Location: Durban
+Agent Name: James Chritophe
+Property Price: R112.00
+Commission Percentage: 1.00%
+Commission Earned: R1.12
