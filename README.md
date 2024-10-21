@@ -26,7 +26,7 @@ The Estate Agent Application is a Java-based application designed for managing a
 ### Running the Application
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/estate-agent-app.git](https://github.com/HChristopherNaoyuki/estate-agent-sales-report-gui-2023-exam-demo.git)
+   git clone https://github.com/HChristopherNaoyuki/estate-agent-sales-report-gui-2023-exam-demo.git
    ```
 2. Open the project in your IDE.
 3. Compile and run the `EstateAgentApp` class.
